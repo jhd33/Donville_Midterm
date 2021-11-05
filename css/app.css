@@ -1,0 +1,66 @@
+
+.background {
+	background-color: #437172;
+	color: white;
+}
+
+.mainheader
+{ 
+background-color: #bb3F24; 
+border-bottom: solid 5px red;
+text-align: center;
+color: white;
+}
+
+h1 {
+	font-family: 'Oswald', sans-serif;
+}
+
+h5 { font-family: 'Zen Antique Soft', serif; }
+
+p {
+	font-family: 'Zen Antique Soft', serif;
+}
+
+h6 {
+	font-family: 'Zen Antique Soft', serif;
+}
+
+.attribution 
+{ 
+text-align: right;}
+
+
+
+.suggestionbox {
+	background-color: #bb3F24;
+	color: white;
+	margin-bottom: 5px;
+}
+
+.headimage 
+{
+	padding-top: 5px;
+}
+
+
+
+.imagecaption {
+}
+
+.videoembed
+{ 
+align-items: center; }
+
+.pullquote
+{
+	padding: 10px 0 10px 0;
+	background-color: #bb3F24;
+	text-align: center;
+	font-size: x-large;
+	color: white;
+}
+
+.infographic {
+	align-content: center;
+}
